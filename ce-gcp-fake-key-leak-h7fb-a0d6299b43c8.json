@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ce-gcp-fake-key-leak-h7fb",
+  "private_key_id": "a0d6299b43c822ed433f98d98e8208b6812c4fd0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCq2ZeGZOGLM0ys\nzeiM2RDFeYSWO/IXQOzoC7O+L0eBOkcaeKl0ojHUPKkCkRfAd5rrjBVmkUDwfjL+\nTN1iT/n8zMcXh/F/JnpHg4I0m2amZfpgG5TbYqJEIWvR+ofxGJZJ+lINX0md20G9\ntWZeF5yfxDYlrhB3CMFe1tkfJHJWQNBFY7XkT2bwxcU27I5/ZCn8oYoqM/XIvI8P\nIrVLg6tUQVc5Hvzf20v6CRon7FsjrAcUdg3ZHiNmMS6aDWphNnGG/pyeFMoIb7uH\n3/Iz/88rkT8cQ2Rit2cPmQk+G/IEthjuxYcm9uT3ktHymSMPdA9aK+gp8gXwWU1K\nbLckIpJLAgMBAAECggEARfPwrCjLBlU7TDfEw0KvMMPIC0FBJs9BEOOVtUWjd+B2\nM3r7GxO75kPuCWyB9p6iMlZ5frTzi2SImYG8VWAcoarwy4wwT5jgET7hxYtpVLFF\neitg4BC7Er1Cacez+H3SLzkMdogw2q7m9Hd9EgKF8Q6EAxqJiEtv7VZ3sN4Z6IFW\n1NV06I0eL6OijB3U59+OMu6r6jeFRReF33GPiSCaeoyWcmJ/BQkeP0NsnHbTiCD9\nRJ8B8Vg7mOHfuy515K/gi0BIubGyX9GOzfXf1heHpATVoUG01dXqBlpfscHGWVgT\nC7l5y0Eu0giHMYTLtgGx+XsFdNbd367/OW8+zE+QlQKBgQDWfVhK3uD+K/kfr1pA\ndXJOhQT76C/hkGhIrEWOCqr16fpy/IB7ZcqRmc3SeoAIxTtCW+L5t/BDsJZEi8Wj\nSFCePmB2XzY1MMeihehxJWJcRNOTYUXrV28pXfsmqAbug+CiFssLxhgP+X6GpsYf\ngZ3k8SwAiW9zoCDsJUShjxtzTwKBgQDL6irk3YE8G6uhbMJ1mIZtizpISk/VfwUn\nFuoBG/2vlt4iWWmRRnhS1z2VzdskXucrY1V+y+bEBH1PQkctDGSBEZwmow7MKWm6\nCdhseWQ5S+Rug56lYKRKwvFi4N03VatfmIj/7yBTVmtUB6dw6qLX/pZGaU1L4HJ4\nqGwK4dQiRQKBgQC7ouO+e8PwFp/VbB1UDmp07kEx7ikU9rOD/9DJNePhRVLnjKUJ\nTj8rqJU58BhZk9EHeELTmmoBjVWnmW7ILNb52C+i3iAZ4BaEwwhZEw89EKjWYV49\nRzvjwGeZpZyKw6uboLz4C8+5CdX6DaN8pHNweNq5jYGGcSrb6q5jd0HYWQKBgAxs\niwqAuHQKF43xS3PQxDf+aKGo7W5Lm+vCyKUiqHU/Uu9y1SzFx2T8ukLbVQPFSH5r\nQfVExR2iTGQ83ItRGvqGMSZlfuxPhaKRIP+S8dlP124oVM0sszXe5MgqfS/250ce\nyxIU5rpNJKLtCHWnxh4048EMf2olFbRmRpbvJXalAoGANoZuPLXsIlsamj/qjEfZ\nqqlw9gc61ubRQ0SH3ZmhZp1UjdWwnBF/8DH9fAu+I7yYLGmJ1vpsluAuNjjGYV/U\n4xrK/Ldga15jPk9rnLEL+b6wWM3CgrUDbyujYp4d88BmXc4vfDZ+QoTGBl9KgkIy\nQAFjSNPOTQvg7BlXdtuVd8k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "notakeyleak@ce-gcp-fake-key-leak-h7fb.iam.gserviceaccount.com",
+  "client_id": "106601601070991774602",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/notakeyleak%40ce-gcp-fake-key-leak-h7fb.iam.gserviceaccount.com"
+}
